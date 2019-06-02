@@ -11,10 +11,10 @@ Esta aplicación está usando una base de datos embebida compuesta de las siguie
 ## Requisitos Previos
 Para realizar el ejercicio necesitaremos tener instalado:
 
-•	Git https://github.com/git-for-windows/git/releases/tag/v2.5.3.windows.1
-•	JDK 1.8
-•	IDE Eclipse
-•	Plugin Spring (Spring Tools 4 - for Spring Boot (aka Spring Tool Suite 4)
+- Git https://github.com/git-for-windows/git/releases/tag/v2.5.3.windows.1
+- JDK 1.8
+- IDE Eclipse
+- Plugin Spring (Spring Tools 4 - for Spring Boot (aka Spring Tool Suite 4)
 
 Una vez que tengamos todo, nos bajaremos del repositorio Git el proyecto
 
@@ -45,13 +45,25 @@ El resto son errores en tiempo de ejecución:
 ## Subir el Ejercicio
 Una vez descargado del repositorio haremos una rama nueva donde subiremos los cambios.
 
-Primero realizar un git flow init
+Primero realizar un
+
+	git flow init
+
 Los cambios se realizarán en una rama de nombre <nombre_apellido>
-Para crear la rama -> git flow feature start <nombre_apellido>
+
+Para crear la rama:
+
+	git flow feature start <nombre_apellido>
+
 Para subir los cambios:
-git add <ruta de la clase java>
-git commit
-git push
+
+	1. git add <ruta de la clase java>
+		normalmente nos posicionamos en el directorio raiz del proyecto y ejecutamos: 
+			git add .
+			
+		que nos comitea todo	
+	2. git commit -m "Comentario sobre la subida"
+	3. git push
 
 ## Secuencia de resolución del ejercicio
 El orden de resolución de la prueba deberá será ser:
