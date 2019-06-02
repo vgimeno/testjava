@@ -10,6 +10,7 @@ Esta aplicación está usando una base de datos embebida compuesta de las siguie
  
 ## Requisitos Previos
 Para realizar el ejercicio necesitaremos tener instalado:
+
 •	Git https://github.com/git-for-windows/git/releases/tag/v2.5.3.windows.1
 •	JDK 1.8
 •	IDE Eclipse
@@ -61,5 +62,5 @@ El orden de resolución de la prueba deberá será ser:
 Para validar la resolución de las pruebas solo es necesario la carpeta SRC, no todo el proyecto. 
 
 Hasta que no se realice la entrega de al menos la resolución de los fallos, no se podrá abandonar el aula.
-Para poder hacer un descanso, se entrega el fuente con la resolución de los fallos y se podrá continuar con el resto del examén posteriormente.
+Para poder hacer un descanso, se entrega el fuente con la resolución de los fallos y se podrá continuar con el resto del examen posteriormente.
 
