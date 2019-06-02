@@ -63,7 +63,7 @@ Para subir los cambios:
 			
 		que nos comitea todo	
 	2. git commit -m "Comentario sobre la subida"
-	3. git push
+	3. git push --set-upstream origin feature/<nombre_apellido>
 
 ## Secuencia de resolución del ejercicio
 El orden de resolución de la prueba deberá será ser:
