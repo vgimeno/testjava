@@ -18,7 +18,15 @@ Para realizar el ejercicio necesitaremos tener instalado:
 
 Una vez que tengamos todo, nos bajaremos del repositorio Git el proyecto
 
-git clone https://gitlabdes.hiberus.com/vgimeno/testjava
+accedemos a:
+        
+        https://github.com/vgimeno/testjava
+
+Hacemos un fork de la rama master del proyecto
+
+Nos bajamos a local nuestro propio fork
+
+        git clone https://github.com/[USUARIO]/testjava
 
 Para lanza el proyecto deberemos hacer clic derecho sobre el proyecto -> Run As -> Spring Boot App
 
@@ -64,6 +72,11 @@ Para subir los cambios:
 		que nos comitea todo	
 	2. git commit -m "Comentario sobre la subida"
 	3. git push --set-upstream origin feature/<nombre_apellido>
+
+Para mandarme los cambios:
+        
+        Accedemos la github a nuestro repo y en la rama de la feature hacemos un pull request.
+
 
 ## Secuencia de resolución del ejercicio
 El orden de resolución de la prueba deberá será ser:
