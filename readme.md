@@ -76,3 +76,4 @@ Para validar la resolución de las pruebas solo es necesario la carpeta SRC, no 
 Hasta que no se realice la entrega de al menos la resolución de los fallos, no se podrá abandonar el aula.
 Para poder hacer un descanso, se entrega el fuente con la resolución de los fallos y se podrá continuar con el resto del examen posteriormente.
 
+## Notas
